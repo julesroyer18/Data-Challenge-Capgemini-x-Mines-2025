@@ -37,4 +37,3 @@ To ensure the model could generalize before submitting to Kaggle, we evaluated i
 
 ### Limitations and Further Steps:
 - Training a model to predict the 3 time horizons at the time, or 3 models but the predictor at +1week uses prediction of the +0 week predictor
-- 
